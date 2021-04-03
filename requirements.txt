@@ -1,0 +1,9 @@
+blueprint==3.4.2
+Flask==1.1.2
+requests==2.25.1
+urllib3==1.26.2
+Werkzeug==1.0.1
+
+bcrypt==3.2.0
+pycryptodome==3.9.8
+cryptography
